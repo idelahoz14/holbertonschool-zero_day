@@ -1,1 +1,1 @@
- this is the directory that contains the shell,basic solution
+ This is the directory that contains basic_shell salution
